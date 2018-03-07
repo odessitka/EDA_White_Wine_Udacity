@@ -1,0 +1,7 @@
+Resources used for WHITE WINE DATASET EDA Project:
+
+1) EU regulation for quality of wine, categories for wine:
+https://www.wineinmoderation.eu/en/articles/How-many-grams-of-sugar-in-wine.153/
+
+2) Volatile acidity in wines:
+http://www.winespectator.com/blogs/show/id/Volatile-Acidity-Wine-Flaw-VA-Laube
